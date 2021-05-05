@@ -17,6 +17,7 @@ export default {
         href:
           'https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap',
       },
+      // フォントの追加
     ],
   },
 
